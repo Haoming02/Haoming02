@@ -8,6 +8,8 @@
 - 🎥 [YouTube](https://www.youtube.com/c/HaomingGaming)
 - 🧰 [CivitAI](https://civitai.com/user/HaomingGaming/models)
 - 🖼️ [Pixiv](https://www.pixiv.net/users/37243577)
+- ☕ [Ko-fi](https://ko-fi.com/haoming)
+    - *Fund my GPU*~
 
 ##### Accumulated Stars ✨
 ![Stars](https://img.shields.io/github/stars/haoming02?style=social)
