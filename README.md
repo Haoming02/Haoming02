@@ -10,6 +10,10 @@
 - 🖼️ [Pixiv](https://www.pixiv.net/users/37243577)
 - ☕ [Ko-fi](https://ko-fi.com/haoming)
 
+<br>
+
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api?username=Haoming02&cc=0d1117&tc=6e97f3&ic=eee&bc=0d1117">
+<a href="https://gitroll.io/profile/u5YYxtl2BYHVUGWZR4fEweNraZB93">
+  <img src="https://gitroll.io/api/badges/profiles/v1/u5YYxtl2BYHVUGWZR4fEweNraZB93" width=768 alt="GitRoll Profile">
+</a>
 </p>
