@@ -1,7 +1,5 @@
 ## Hello, I am **@Haoming02**
 
-### Profile
-- #### 💼 Professional Unity Developer
 - #### 🤖 Generative AI Enthusiast
 
 ### Socials
